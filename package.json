@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mmywallet.github.io/mmy",
+  "homepage": "http://mmywallet.github.io/wallet",
   "dependencies": {
     "@material-ui/core": "^4.0.1",
     "icon-sdk-js": "0.0.16",

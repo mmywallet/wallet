@@ -8,7 +8,6 @@ import {
   IconConverter
 } from 'icon-sdk-js'
 import SDK from './SDK';
-import config from './config';
 import './App.css';
 
 export default class App extends Component{

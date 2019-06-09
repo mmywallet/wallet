@@ -2,7 +2,6 @@ import IconService, {
     HttpProvider,
     IconBuilder,
   } from 'icon-sdk-js'
-  import config from './config'
   
   const provider = new HttpProvider(window.PROVIDER_URL)
   const iconService = new IconService(provider)
